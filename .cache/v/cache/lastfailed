@@ -1,0 +1,4 @@
+{
+  "test_cool_bot.py::test_greeting": true, 
+  "test_cool_bot.py::test_location_price": true
+}
